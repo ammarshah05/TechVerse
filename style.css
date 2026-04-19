@@ -24,6 +24,18 @@ body {
     height: 90vh;
 }
 
+.test1{
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.test2{
+    color: rgb(47, 228, 11);
+    font-size: 16px;
+    font-weight: bolder;
+}
+
 .hero-content {
     padding-top: 100px;
 }
@@ -58,4 +70,10 @@ body {
 .form-control:focus {
     box-shadow: 0 0 10px rgba(255, 77, 90, 0.2);
     border: 1px solid #ff4d5a;
+}
+
+.test3{
+    color: rgb(64, 10, 191);
+    font-size: 16px;
+    font-weight: bolder;
 }
